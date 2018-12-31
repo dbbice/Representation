@@ -53,7 +53,7 @@ def getPeopleList(html):
 			for i in range(len(m)):
 				plst.append(m[i])
 			print(plst)
-			write_data(plst,'H:\jtdoctor.csv')
+			# write_data(plst,'H:\jtdoctor.csv')
 
 			# lst.append(plst)
 		except:
