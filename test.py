@@ -79,6 +79,6 @@ def main():
 	    html = getHTMLText(url)
 	    # print(html)
 	    getPeopleList(html)
-	    
+	    print()
 
 main()
